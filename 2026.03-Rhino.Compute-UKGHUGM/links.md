@@ -5,7 +5,7 @@ Presented at the UK GH User Group Meeting organized by Simply Rhino, March 17th,
 
 ## Links
 
-- [Getting Started with Rhino.Compute on Linux]()
+- [Getting Started with Rhino.Compute on Linux](https://developer.rhino3d.com/guides/compute/compute-linux-getting-started/)
 - [Rhino Developer Documentation](https://developer.rhino3d.com)
 - [Hops](https://developer.rhino3d.com/guides/compute/what-is-hops/)
 - [Rhino.Compute on GitHub](https://github.com/mcneel/compute.rhino3d)
